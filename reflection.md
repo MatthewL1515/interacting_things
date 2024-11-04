@@ -1,7 +1,7 @@
 Because the assignment asked for us to use simpler objects and required that both of them move, I changed the original plan so that the balls, when in contact, would change direction and color. During this process, I also tried to consolidate the code by creating variables during the function reset(). However, I realized that if I were to create a central variable, the objects would be stuck together and be unable to move (see below).
 
-<img width="401" alt="Untitled" src="https://github.com/user-attachments/assets/a5cd0d36-affb-4cff-acdf-db1ef58c5e33">
-
 When I started this sketch, I frequently got confused because of the many functions I was using. I found  using comments (//) to describe nearly all the code helped me immensely and that you could group variables by commas. That way, I made it so the circle1 variables and circle2 variables were grouped. Doing this allowed me to find mistakes in my code easily when needed.
 
 Something I'm proud of from this assignment was using the comments more frequently. As we start doing larger projects, it gets easier to become lost in code, and need to search your code to find mistakes or organize new code. By using comments, it became much easier to identify my code.
+
+<img width="401" alt="Untitled" src="https://github.com/user-attachments/assets/a5cd0d36-affb-4cff-acdf-db1ef58c5e33">
