@@ -1,4 +1,4 @@
-Because the assignment asked for us to use simpler objects and required that both of them move, I changed the original plan so that the balls, when in contact, would change direction and color. During this process, I also tried to consolidate the code by creating variables during the function reset(). However, I realized that if I were to create a central variable, the objects would be stuck together and be unable to move (see below).
+Because the assignment asked for us to use simpler objects and required that both of them move, I changed the original plan so that the balls, when in contact, would change direction and color. During this process, I also tried to consolidate the code by creating variables during the function reset(). However, I realized that if I were to create a central variable, the objects would be stuck together and be unable to move (see below). Therefore, I had to make each randomization code separate for each variable.
 
 <img width="401" alt="Untitled" src="https://github.com/user-attachments/assets/a5cd0d36-affb-4cff-acdf-db1ef58c5e33">
 
